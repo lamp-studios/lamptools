@@ -8,9 +8,9 @@
 
 Install tools on demand. Run them in one place. Build your own.
 
-[![Terms of Use](assets/btn-terms.png)](TERMS.md)
+<a href="TERMS.md"><img src="assets/btn-terms.png" alt="Terms of Use" width="120"/></a>
 &nbsp;
-[![Privacy](assets/btn-privacy.png)](PRIVACY.md)
+<a href="PRIVACY.md"><img src="assets/btn-privacy.png" alt="Privacy" width="95"/></a>
 
 <br/>
 
