@@ -8,9 +8,9 @@
 
 Install tools on demand. Run them in one place. Build your own.
 
-<a href="TERMS.md"><img src="assets/btn-terms.png" alt="Terms of Use" width="120"/></a>
+<a href="https://www.lamps-dev.dev/tos"><img src="assets/btn-terms.png" alt="Terms of Use" width="120"/></a>
 &nbsp;
-<a href="PRIVACY.md"><img src="assets/btn-privacy.png" alt="Privacy" width="95"/></a>
+<a href="https://www.lamps-dev.dev/privacy"><img src="assets/btn-privacy.png" alt="Privacy" width="95"/></a>
 
 <br/>
 
