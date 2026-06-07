@@ -8,9 +8,9 @@
 
 Install tools on demand. Run them in one place. Build your own.
 
-<a href="https://www.lamps-dev.dev/tos"><img src="assets/btn-terms.png" alt="Terms of Use" width="120"/></a>
+<a href="TERMS.md"><img src="assets/btn-terms.png" alt="Terms of Use" width="110"/></a>
 &nbsp;
-<a href="https://www.lamps-dev.dev/privacy"><img src="assets/btn-privacy.png" alt="Privacy" width="95"/></a>
+<a href="PRIVACY.md"><img src="assets/btn-privacy.png" alt="Privacy" width="85"/></a>
 
 <br/>
 
@@ -27,10 +27,10 @@ Install tools on demand. Run them in one place. Build your own.
 
 LampTools is a Windows desktop app by **Lamp Studios** that works like an app store plus a runtime. The main window gives you navigation and tool "cards," and each tool installs on demand as a downloadable plugin. Think of it as a lightweight catalog you can extend yourself.
 
-- **Host shell** — one window, sidebar navigation, tool cards per category
-- **Plugin catalog** — browse tools, install the ones you want
-- **Runtime** — installed plugins open right inside the app
-- **Extensible** — anyone can author and ship a plugin
+- **Host shell**: one window, sidebar navigation, tool cards per category
+- **Plugin catalog**: browse tools, install the ones you want
+- **Runtime**: installed plugins open right inside the app
+- **Extensible**: anyone can author and ship a plugin
 
 ---
 
@@ -38,7 +38,7 @@ LampTools is a Windows desktop app by **Lamp Studios** that works like an app st
 
 - Sidebar navigation (Home, Settings, About, Text Tools) backed by a stacked view
 - Tool cards rendered from YAML catalogs, with a verified badge for first-party tools
-- On-demand plugin install from a URL — downloads, validates, and stages atomically
+- On-demand plugin install from a URL, which downloads, validates, and stages atomically
 - Three plugin kinds: **web** (opens in browser), **python** (Qt widget with hot-reload), and **webview** (loads a URL in an embedded view)
 - Windows version gate (requires Windows 10 1507 or newer)
 - A CLI scaffolder for plugin authors
@@ -73,7 +73,7 @@ uv run pyinstaller --noconfirm lamptools.spec
 ## How it works
 
 ```
-main.py                 entry point — builds MainWindow, sidebar, stacked pages
+main.py                 entry point, builds MainWindow, sidebar, stacked pages
 src/config.py           global config (version, tools dir) + ASCII banner
 src/tools_loader.py     scans src/tools/*.yaml, renders tool cards onto pages
 src/plugins/            the plugin runtime (install + open)
@@ -134,7 +134,7 @@ It prompts for metadata, target page, and kind (python or webview), generates a 
 
 ## Project status
 
-Early — **v1.0**. There's one example page (Text Tools) with a `base64_tools` catalog entry that isn't hosted yet (empty `src_download`). Expect things to move around.
+Early, **v1.0**. There's one example page (Text Tools) with a `base64_tools` catalog entry that isn't hosted yet (empty `src_download`). Expect things to move around.
 
 ---
 
@@ -142,7 +142,7 @@ Early — **v1.0**. There's one example page (Text Tools) with a `base64_tools` 
 
 - [Terms of Use](TERMS.md)
 - [Privacy](PRIVACY.md)
-- Homepage — [lamps-dev.dev](https://lamps-dev.dev)
+- Homepage: [lamps-dev.dev](https://lamps-dev.dev)
 
 <div align="center">
 <br/>
