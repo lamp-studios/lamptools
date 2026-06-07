@@ -146,5 +146,5 @@ Early, **v1.0**. There's one example page (Text Tools) with a `base64_tools` cat
 
 <div align="center">
 <br/>
-<sub>Built by Lamp Studios</sub>
+<sub>Built by <a href="https://discord.lamps-dev.dev">Lamp Studios</a></sub>
 </div>
