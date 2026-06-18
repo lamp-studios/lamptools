@@ -49,7 +49,7 @@ LampTools is a Windows desktop app by **Lamp Studios** that works like an app st
 
 ### From the installer (recommended)
 
-Grab the latest `LampTools-Setup-v1.0.0.exe` from the [Releases](../../releases) page and run it. Built with Inno Setup.
+Grab the latest `LampTools-Setup-v*.exe` from the [Releases](../../releases) page and run it. Built with Inno Setup.
 
 ### From source
 
