@@ -17,7 +17,7 @@ Install tools on demand. Run them in one place. Build your own.
 ![Platform](https://img.shields.io/badge/Windows-10%2B-0078d4?style=flat-square&logo=windows&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.12--3.13-3776ab?style=flat-square&logo=python&logoColor=white)
 ![Qt](https://img.shields.io/badge/PySide6-Qt%206.11-41cd52?style=flat-square&logo=qt&logoColor=white)
-![Version](https://img.shields.io/badge/version-1.0-111111?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.0b-111111?style=flat-square)
 
 </div>
 
