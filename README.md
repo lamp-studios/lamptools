@@ -56,8 +56,8 @@ Grab the latest `LampTools-Setup-v*.exe` from the [Releases](../../releases) pag
 Requires [uv](https://docs.astral.sh/uv/) and Python 3.12 or 3.13.
 
 ```bash
-git clone https://github.com/lamp-studios/lamptools-gui.git
-cd lamptools-gui
+git clone https://github.com/lamp-studios/lamptools.git
+cd lamptools
 uv sync
 uv run main.py
 ```
@@ -140,8 +140,8 @@ Early, **v1.0**. There's one example page (Text Tools) with a `base64_tools` cat
 
 ## Links
 
-- [Terms of Use](TERMS.md)
-- [Privacy](PRIVACY.md)
+- [Terms of Use](https://lamps-dev.dev/tos)
+- [Privacy](https://lamps-dev.dev/privacy)
 - Homepage: [lamps-dev.dev](https://lamps-dev.dev)
 
 <div align="center">
